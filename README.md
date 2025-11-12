@@ -27,3 +27,5 @@ Optional: specify an explicit output path
 ```
 .build/release/blogger2ghost blogger.json -o ghost.json
 ```
+
+Import `ghost.json` into Ghost.
